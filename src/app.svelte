@@ -19,6 +19,7 @@
 </header>
 
 <main>
+  <div>Ceci est un test</div>
   {#if !$currentGame}
     <section class="jumbotron text-center">
       <div class="container">
